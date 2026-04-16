@@ -1,2 +1,2 @@
 # Housegoda
-   House rental management system
+   House rental management app 
